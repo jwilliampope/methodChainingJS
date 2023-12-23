@@ -1,1 +1,1 @@
-Thaanks BroCode! Simple study of chained methods.
+Thanks BroCode! Simple study of chained methods.
